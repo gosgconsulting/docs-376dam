@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-yjy74z.absolutebeachview.co.nz/sitemap.xml
